@@ -13,10 +13,10 @@ source: [MDN "Local Library" Express (Node) tutorial](https://developer.mozilla.
 - Deploy the application to production.
 
 ## Table of Contents
-Express Tutorial Part 1: The Local Library website
-Express Tutorial Part 2: Creating a skeleton website
-Express Tutorial Part 3: Using a Database (with Mongoose)
-Express Tutorial Part 4: Routes and controllers
-Express Tutorial Part 5: Displaying library data
-Express Tutorial Part 6: Working with forms
-Express Tutorial Part 7: Deploying to production
+- Express Tutorial Part 1: The Local Library website
+- Express Tutorial Part 2: Creating a skeleton website
+- Express Tutorial Part 3: Using a Database (with Mongoose)
+- Express Tutorial Part 4: Routes and controllers
+- Express Tutorial Part 5: Displaying library data
+- Express Tutorial Part 6: Working with forms
+- Express Tutorial Part 7: Deploying to production
